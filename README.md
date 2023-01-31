@@ -21,4 +21,5 @@
   <h1>+</h1>
 </div>
 <hr>
+<p align="center">Contact me for projects</p>
 </div>
