@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/f4n8vcAVRZUAAAAC/pepe-matrix.gif" width="200"/>
+  <img src="[https://media.tenor.com/f4n8vcAVRZUAAAAC/pepe-matrix.gif](https://media.tenor.com/images/edbcfe59b35c7260080de8e168e3dc8b/tenor.gif)" width="200"/>
   <p>{no socials}</p>
   <img src="https://komarev.com/ghpvc/?username=l0bst3rr0r&style=flat-square&color=red" alt=""/>
 </div>
