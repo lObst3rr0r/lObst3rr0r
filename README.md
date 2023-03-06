@@ -29,5 +29,5 @@
 </div>
 <hr>
 <p align="center">Contact me for projects</p>
-<a align="center" href="https://kent.software">Link to my old website here..</a>
+<a align="center" href="https://kent.software" target="_blank">Link to my old website here..</a>
 </div>
