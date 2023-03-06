@@ -29,4 +29,5 @@
 </div>
 <hr>
 <p align="center">Contact me for projects</p>
+<a href="https://kent.software">Link to my old website here..</a>
 </div>
